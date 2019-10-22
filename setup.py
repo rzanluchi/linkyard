@@ -79,7 +79,7 @@ setup(
     install_requires=[
         "python-etcd==0.4.2",
         "falcon==0.3.0",
-        "gunicorn==19.3.0",
+        "gunicorn==19.5.0",
         "simplejson==3.8.1",
     ],
 
